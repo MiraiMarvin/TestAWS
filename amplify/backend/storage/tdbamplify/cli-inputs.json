@@ -1,0 +1,10 @@
+{
+  "resourceName": "tdbamplify",
+  "tableName": "usertable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

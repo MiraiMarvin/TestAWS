@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tdb-dev-9912e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::761018868192:role/amplify-tdb-dev-9912e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::761018868192:role/amplify-tdb-dev-9912e-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-tdb-dev-9912e-deployment",
+      "UnauthRoleName": "amplify-tdb-dev-9912e-unauthRole",
+      "StackName": "amplify-tdb-dev-9912e",
+      "StackId": "arn:aws:cloudformation:eu-west-1:761018868192:stack/amplify-tdb-dev-9912e/e2b364e0-57da-11f0-9074-06b6e142a2cd",
+      "AmplifyAppId": "d329w24cqi3nfu"
+    },
+    "categories": {
+      "function": {
+        "UserHandler": {
+          "deploymentBucketName": "amplify-tdb-dev-9912e-deployment",
+          "s3Key": "amplify-builds/UserHandler-51506964733354676970-build.zip"
+        }
+      },
+      "storage": {
+        "tdbamplify": {}
+      }
+    }
+  }
+}
